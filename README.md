@@ -42,7 +42,7 @@ Features will be enabled/disabled by (un)ticking boxes.
 ## Instructions
 
 1. Install Assault Cube ([official page](https://assault.cubers.net/download.html))
-2. Install [Cheat Engine](https://www.cheatengine.org/) (for more info click [HERE](#cenotice))
+2. Install [Cheat Engine](https://www.cheatengine.org/) (direct download link: [Cheat Engine](https://d1vdn3r1396bak.cloudfront.net/installer/42511337/21191504383817), for more info click [HERE](#cenotice))
 3. Install this [Repository](https://github.com/DraxFM/AC-Health-Cheats/archive/refs/heads/main.zip)
 
 ## Setup
@@ -53,7 +53,17 @@ Features will be enabled/disabled by (un)ticking boxes.
 5. On the top left corner of the cheat engine window should be a glowing computer. Click it, press on the "**AssaultCube**" process in the window (make sure you have AssaultCube running, else Cheat Engine can't find the process!!!) that should pop up and press open.
 3. The Tipley Mod Menu is now set up!
 
+### Visualized:
+<img src="https://i.ibb.co/5xs4PRH/1.png" width=500 height=auto></a>
+---
+<img src="https://i.ibb.co/YQWyf8G/2.png" width=500 height=auto></a>
+---
+<img src="https://i.ibb.co/vjtMDbP/3.png" width=500 height=auto></a>
+---
+<img src="https://i.ibb.co/JKvcW2K/4.png" width=500 height=auto></a>
 
+### <a id="cenotice"></a>Cheat Engine Notice
+The [official page](https://www.cheatengine.org/) of Cheat Engine looks pretty fishy. To this day nobody knows why exactly but cheat engine is proved not to be malicious so don't get afraid of the downloading page.
 
 ## Authors
 * [**Drax**](https://github.com/DraxFM)
