@@ -74,7 +74,7 @@ Features will be enabled/disabled by (un)ticking boxes.
 
 ## Setup
 1. Install the [Repository](https://github.com/DraxFM/AC-Health-Cheats/archive/refs/heads/main.zip) and extract it to your desired path.
-2. Open the extracted folder and open the "TipleyModMenu" folder.
+2. Open the extracted folder and open the "**TipleyModMenu**" folder.
 3. In there, you should find a **ac_client.ct** file.
 4. Launch Cheat Engine and drag the **ac_client.ct** file into the bottom bar.
 5. On the top left corner of the cheat engine window should be a glowing computer. Click it, press on the "**AssaultCube**" process in the window (make sure you have AssaultCube running, else Cheat Engine can't find the process!!!) that should pop up and press open.
