@@ -2,10 +2,23 @@
 This Repository covers multiple mods I made for Assault Cube and serves as archive!
 
 ## :smiling_imp: - Content
-- [AC Health Cheats](#healthcheats)
+- [External AC Health Cheats](#healthcheats)
 - [Tipley Mod Menu](#tipleymod)
 
-# <a id ="healthcheats"></a> AC Health Cheats
+# <a id ="healthcheats"></a> External AC Health Cheats
+
+<p align="center">
+  <a href="https://www.microsoft.com/en-in/windows">
+    <img src="https://img.shields.io/badge/platform-windows-blue">
+  </a>
+  <a href="https://www.python.org">
+      <img src="https://img.shields.io/badge/Python-3.10+-sucess">
+  </a>
+  <a href="https://github.com/assaultcube/AC/releases/download/v1.3.0.2/AssaultCube_v1.3.0.2_LockdownEdition.exe">
+      <img src="https://img.shields.io/badge/AC%20Version-1.3.0.2-blueviolet">
+  </a>
+</p>
+
 This program will be able to manipulate your health in the game "**AssaultCube**".
 
 ## Instructions
@@ -16,7 +29,7 @@ This program will be able to manipulate your health in the game "**AssaultCube**
 
 ## Setup
 1. Install the [Repository](https://github.com/DraxFM/AC-Health-Cheats/archive/refs/heads/main.zip) and extract it to your desired path.
-2. Open the extracted folder and open the "ACHealthChanger" folder.
+2. Open the extracted folder and open the "**ExternalACHealthChanger**" folder.
 3. In there, run the "**setup.bat**" file.
 4. When done, run the "**start.bat**" file to launch the health manipulator.
 5. The rest is self explanatory.
@@ -33,8 +46,22 @@ This program will be able to manipulate your health in the game "**AssaultCube**
 ---
 ---
 
-## <a id="tipleymod"></a> Tipley Mod Menu
-### This mod menu is still unfinished!
+<h1 align="center" id="tipleymod">Tipley Mod Menu</h1>
+
+<h3 align="center">This mod menu is still unfinished!</h3>
+
+<p align="center">
+  <a href="https://www.microsoft.com/en-in/windows">
+    <img src="https://img.shields.io/badge/platform-windows-blue">
+  </a>
+  <a href="https://d1vdn3r1396bak.cloudfront.net/installer/42511337/21191504383817">
+      <img src="https://img.shields.io/badge/Cheat%20Engine-7.5-sucess">
+  </a>
+  <a href="https://github.com/assaultcube/AC/releases/download/v1.3.0.2/AssaultCube_v1.3.0.2_LockdownEdition.exe">
+      <img src="https://img.shields.io/badge/AC%20Version-1.3.0.2-blueviolet">
+  </a>
+</p>
+
 This mod menu grants you access to various gamechanging features!
 
 Features will be enabled/disabled by (un)ticking boxes.
