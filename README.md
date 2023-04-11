@@ -17,9 +17,9 @@ This program will be able to manipulate your health in the game "**AssaultCube**
 ## Setup
 1. Install the [Repository](https://github.com/DraxFM/AC-Health-Cheats/archive/refs/heads/main.zip) and extract it to your desired path.
 2. Open the extracted folder and open the "ACHealthChanger" folder.
-1. In there, run the "**setup.bat**" file.
-2. When done, run the "**start.bat**" file to launch the health manipulator.
-3. The rest is self explanatory.
+3. In there, run the "**setup.bat**" file.
+4. When done, run the "**start.bat**" file to launch the health manipulator.
+5. The rest is self explanatory.
 
 ---
 
@@ -48,10 +48,10 @@ Features will be enabled/disabled by (un)ticking boxes.
 ## Setup
 1. Install the [Repository](https://github.com/DraxFM/AC-Health-Cheats/archive/refs/heads/main.zip) and extract it to your desired path.
 2. Open the extracted folder and open the "TipleyModMenu" folder.
-1. In there, you should find a **ac_client.ct** file.
-2. Launch Cheat Engine and drag the **ac_client.ct** file into the bottom bar.
+3. In there, you should find a **ac_client.ct** file.
+4. Launch Cheat Engine and drag the **ac_client.ct** file into the bottom bar.
 5. On the top left corner of the cheat engine window should be a glowing computer. Click it, press on the "**AssaultCube**" process in the window (make sure you have AssaultCube running, else Cheat Engine can't find the process!!!) that should pop up and press open.
-3. The Tipley Mod Menu is now set up!
+6. The Tipley Mod Menu is now set up!
 
 ### Visualized:
 <img src="https://i.ibb.co/5xs4PRH/1.png" width=500 height=auto></a>
