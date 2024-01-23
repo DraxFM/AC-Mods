@@ -2,7 +2,7 @@
 This Repository covers multiple mods I made for Assault Cube and serves as archive!
 
 ## End
-I made these mods way back when I got into cheating but I'm definitely done with Assault Cube. I was planning to finish the Tipley Mod Menu but for reasons I will not disclose, I have less time and it generall is unnecessary. All this should still work with the correct versions though.  
+I made these mods way back when I got into cheating but I'm definitely done with Assault Cube. I was planning to finish the Tipley Mod Menu but for reasons I will not disclose, I have less time and it generally is unnecessary. All this should still work with the correct versions though.  
 Cya!  
 
 ## :smiling_imp: - Content
